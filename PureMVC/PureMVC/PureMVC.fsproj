@@ -6,7 +6,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Library.fs"/>
+        <Compile Include="interfaces\IProxy.fs" />
+        <Compile Include="patterns\proxy\Proxy.fs" />
+        <None Include="..\..\LICENSE" />
+        <None Include="..\..\README.md" />
+        <None Include="..\..\VERSION" />
+        <None Include="..\..\.gitignore" />
     </ItemGroup>
 
 </Project>

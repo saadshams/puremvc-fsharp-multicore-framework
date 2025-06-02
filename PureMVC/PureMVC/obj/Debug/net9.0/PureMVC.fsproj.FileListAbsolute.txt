@@ -11,3 +11,4 @@
 /Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.xml
 /Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.pdb
 /Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/ref/PureMVC.dll
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.sourcelink.json

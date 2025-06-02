@@ -8,10 +8,10 @@
     <ItemGroup>
         <Compile Include="interfaces\IProxy.fs" />
         <Compile Include="patterns\proxy\Proxy.fs" />
+        <None Include="..\..\.gitignore" />
         <None Include="..\..\LICENSE" />
         <None Include="..\..\README.md" />
         <None Include="..\..\VERSION" />
-        <None Include="..\..\.gitignore" />
     </ItemGroup>
 
 </Project>

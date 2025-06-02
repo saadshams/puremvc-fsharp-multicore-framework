@@ -1,0 +1,13 @@
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/bin/Debug/net9.0/PureMVC.deps.json
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/bin/Debug/net9.0/PureMVC.dll
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/bin/Debug/net9.0/PureMVC.pdb
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/bin/Debug/net9.0/PureMVC.xml
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.fsproj.AssemblyReference.cache
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.AssemblyInfoInputs.cache
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.AssemblyInfo.fs
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.fsproj.CoreCompileInputs.cache
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.dll
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/refint/PureMVC.dll
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.xml
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/PureMVC.pdb
+/Users/sshams/Documents/saadshams/puremvc-fsharp-multicore-framework/PureMVC/PureMVC/obj/Debug/net9.0/ref/PureMVC.dll

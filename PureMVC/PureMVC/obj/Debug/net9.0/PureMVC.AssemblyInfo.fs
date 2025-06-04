@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("PureMVC")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e00bddd5d2201490f64e10abc5908c21ed3e385")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25a47a29ab125781c5fdf35447ae055d845c2e2f")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("PureMVC")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("PureMVC")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]

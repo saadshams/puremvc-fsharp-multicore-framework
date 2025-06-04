@@ -8,7 +8,7 @@ type Proxy(name: string, data: obj option) =
     
     static member val NAME = "Proxy" with get
     
-    interface IProxy with // The type 'IProxy' is not defined. The type 'obj' is not an interface type
+    interface IProxy with
         member _.Name = name
         member _.Data
             with get() = data
